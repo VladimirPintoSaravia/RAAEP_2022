@@ -1,4 +1,4 @@
-# **Desigualdades en variables sociodemográficas en el auto reporte de síntomas por COVID-19 de las personas bolivianas de 60+, por condición étnica**
+# **Desigualdad sociodemográfica en el auto reporte de síntomas por COVID-19 de las personas bolivianas de 60+, por condición étnica**
 
 ## Código ultilizado en el paper aceptado para el II Seminario de la Red Andino Amazónica en Estudios de Población (RAAEP)
 Población y COVID-19 en los países andino-amazónicos (Bolivia, Ecuador y Perú)
